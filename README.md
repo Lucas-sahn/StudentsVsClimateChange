@@ -18,7 +18,7 @@ A lot services on IBM Cloud have the lite tier, that you can use with your free 
 
 ## Join the Slack
 In the Slack workspace, you’ll be able to find other participants, join or build teams, brainstorm and collaborate on ideas, and communicate with the challenge Champions and Subject Matter Experts. 
-**[Join the Slack](callforcode.org/slack)**
+**[Join the Slack](https://callforcode.typeform.com/to/Ow3xQr)**
 
 **Please join the following channels in the workspace:**
 - #EMEA-student-challenge 
