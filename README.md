@@ -50,22 +50,6 @@ In the Slack workspace, you’ll be able to find other participants, join or bui
 - [Demo](https://watson-assistant-demo.ng.bluemix.net)
 - [Code Patterns](https://developer.ibm.com/patterns/category/conversation/?fa=date%3ADESC&fb=)
 
-#### [Visual Recognition](https://www.ibm.com/cloud/watson-visual-recognition) / [Cloud Annotation Tool](https://cloud.annotations.ai/login)
-
->Watson Visual Recognition makes it easy to extract thousands of labels from your organization’s images and detect for specific content out-of-the-box. You can also build custom models to detect for specific content in images inside your applications.
-> - Classify your images
-> - Train with less data
-> - Object Detection
-> - Easy Custom Training
-> - Visually Inspect Anything
-> - Bring AI into iOS apps with Core ML
-
-> Cloud Annotations makes labeling images and training machine learning models easy. Whether you’ve never touched a line of code in your life or you’re a TensorFlow ninja, these docs will help you build what you need. Let’s get started!
-
-- [Cloud Annotation Tool Docs](https://cloud.annotations.ai/docs)
-- [Visual Recognition API](https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3)
-- [Visual Recognition Demo](https://visual-recognition-code-pattern.ng.bluemix.net)
-- [Visual Recognition Code Patterns](https://developer.ibm.com/patterns/category/vision/?fa=date%3ADESC&fb=)
 #### [Jupyter Notebooks](https://developer.ibm.com/components/jupyter/)
 > An open-source web application that supports interactive data science and scientific computing across all programming languages
 
