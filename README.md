@@ -25,7 +25,7 @@ In the Slack workspace, you’ll be able to find other participants, join or bui
 - #EMEA-student-teambuilding
 
 ## Explore the IBM Academic Initiative 
-[Register on our IBM Academic Initiative website](www.ibm.com/academic) and get access to select IBM resources for classroom (teaching / learning) and non-commercial research at participating accredited academic institutions.
+[Register on our IBM Academic Initiative website](https://www.ibm.com/academic/home) and get access to select IBM resources for classroom (teaching / learning) and non-commercial research at participating accredited academic institutions.
 
 ## What are some  products I can use to get started quickly?
 ### IBM Developer resources
